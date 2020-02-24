@@ -1,6 +1,6 @@
 [Athena](https://docs.aws.amazon.com/athena/latest/ug/what-is.html)
 
-Amazon Athena is an interactive query service that makes it easy to analyze data directly in Amazon Simple Storage Service (Amazon S3) using standard SQL.
+Amazon Athena is an interactive query service that makes it easy to analyze data directly in S3 using standard SQL.
 
 # Usage
 Ad-hoc query for unstructured, semi-structured, and structured data stored in S3; Integrate with QuickSight to do data visualization; Integrate with Glue Data Catalog to query data and create tables in Athena.
