@@ -55,6 +55,6 @@ Retention period is data store time in Kinesis Data Stream. (1 day <= retention 
   Data source can be a producer application or a Kinesis stream. It can use Glue to covert the record format.
 
 # Kinesis Data Analytics
-With Amazon Kinesis Data Analytics for SQL Applications, you can process and analyze streaming data using standard SQL. 
-Data sources can be Kinesis data stream, Kinesis Data Firehose delivery stream. Destination can be Amazon Kinesis Data Firehose (Amazon S3, Amazon Redshift, Amazon Elasticsearch Service, and Splunk), AWS Lambda, and Amazon Kinesis Data Streams as destinations. 
+With Kinesis Data Analytics for SQL Applications, you can process and analyze streaming data using standard SQL. 
+Data sources can be Kinesis data stream, Kinesis Data Firehose delivery stream. Destination can be Kinesis Data Firehose (S3, Redshift, Elasticsearch Service, and Splunk), Lambda, and Kinesis Data Streams as destinations. 
 
